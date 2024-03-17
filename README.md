@@ -1,4 +1,4 @@
-#Digital Spirit Level
+# Digital Spirit Level
 
 
 This project was carried out by Mehdi Haidari, Theodor Ahlgren and Baseer Qayoumi at Chalmers University of Technology as part of their examination.
